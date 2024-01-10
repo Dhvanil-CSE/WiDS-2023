@@ -15,7 +15,7 @@ It's advisable to review these materials before delving into the final project. 
 
 ### In the final project, we will be implementing the following CNN structure (or any other structure you prefer; in this case, do attach the structure), you can easily calculate the size of kernels and filters using the output shape in the figure:
 
-[Attach CNN Structure Here]
+![structure](https://github.com/Dhvanil-CSE/WiDS-2023/blob/main/Final_Project/image_dump.png)
 
 ### PIL library for resizing the images:
 [Link to PIL Image Tutorial](https://neptune.ai/blog/pil-image-tutorial-for-machine-learning)
